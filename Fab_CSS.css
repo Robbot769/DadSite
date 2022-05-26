@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Source Sans Pro';
+    display: grid;
+    background-color: #000b13;
+    color: #5271c3
+}
+img
+{
+    width: 400;
+    height: 300;
+    padding: 10px;
+}
+p, .head1
+{
+    color: #124587;
+}
+.head1
+{
+    text-align: center;
+    font-family: 'Futura';
+    text-decoration: underline #124587;
+}
+#span1
+{
+    font-style: italic;
+}
+nav
+{
+    width: 200;
+    height: auto;
+    border: solid #124587;
+}
+a:visited
+{
+    color: #5271c3;
+}
+a:hover
+{
+    color: #f14e1c;
+}
+::marker
+{
+    color: rgb(241, -78, 28);
+}
+span2{
+    background-image: url("https://s.qwant.com/api/events/image/snippet/AXG7CC_di3c4oebAtPfl");
+}
